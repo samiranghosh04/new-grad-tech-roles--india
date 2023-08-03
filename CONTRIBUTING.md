@@ -17,18 +17,17 @@ Thank you for your interest in contributing to our repository! To ensure a smoot
 <details>
 <summary><b>Table Example</b> -- click here</summary> <br>
 
-- If you were **ADDING** a job opening for *Walmart*:
+- If you were **ADDING** a job opening for *Flipkart*:
 
 | Company/Organisation | Location | Roles | Eligibility Criteria | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
 | -------------------- | -------- | ----- | -------------------- | --------------------------- |------------------------------------------------------|
-| [Walmart]() | Bentonville, AR (s) | ✅ [New Grad Software Engineer II]()| B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
+| [Flipkart]() | Chennai, Pune, Hyderabad | [New Grad Software Engineer II]()| B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
 
 
 Placeholders for the table are as follows:
   - `Company/Organisation`: The name of the company.
   - `Location`: The location(s) of the job opening.
-  - `Roles`: Any additional Roles or links to the job posting.
-    - The "✅" is not required, but if you still want to add it to keep it consistent with the rest of the repo, you can add it at the beginning of the role listing. 
+  - `Roles`: Any additional Roles or links to the job posting. 
   - `Eligibility Criteria`: The eligibility criteria for the jobs.
   - `Date Posted`: The date the job opening was posted. Must be in the format of `/dd/mm/yyyy`.
   - `Application Deadline (if available)`: The date the job opening was posted. Must be in the format of `dd/mm/yyyy`.
@@ -41,11 +40,11 @@ Placeholders for the table are as follows:
 
 - If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link, or add a new position name separated by a comma or a `<br>` tag.
 
-<br> ✅ [New Grad Product Manager]()
+<hr> [New Grad Product Manager]()
 
 | Company/Organisation | Location | Roles | Eligibility Criteria | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
 | -------------------- | -------- | ----- | -------------------- | --------------------------- |------------------------------------------------------|
-| [Walmart]() | Bentonville, AR (s) | ✅ [New Grad Software Engineer II]() <br> ✅ [New Grad Product Manager]() | B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
+| [Flipkart]() | Chennai, Pune, Hyderabad |  [New Grad Software Engineer II]() <hr> [New Grad Product Manager]() | B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
 
 
 
