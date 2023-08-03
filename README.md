@@ -83,5 +83,10 @@ This is a repo consisting of books, articles, and repositories.
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Jobs
+| Company/Organisation | Location | Roles | Eligibility Criteria | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
+| -------------------- | -------- | ----- | -------------------- | --------------------------- |------------------------------------------------------|
+| [American Express](https://aexp.eightfold.ai/careers/job/17212750) | Bengaluru, KA or Gurugram, HR - Hybrid  | [ Engineer Trainee – Software Engineering ](https://aexp.eightfold.ai/careers/job/17212750)| M. Tech. (2 Year course), Integrated B.Tech + M. Tech (5 Year course), MCA, M.Sc CS or related. <br> **(For 2024 P.O with no active backlogs)** | 2/08/2023 | Unknown |
+| [ Flipkart ](https://www.flipkartcareers.com/#!/job-view/ui-engineer-ii-cleartrip-bangalore-karnataka-html5-css3-javascript-react-node-nextjs-gatsby-webpack-server-side-rendering-seo-frontend-architectural-patterns-2023040115395664) | Bengaluru, KA | [ UI Engineer II - Cleartrip ](https://www.flipkartcareers.com/#!/job-view/ui-engineer-ii-cleartrip-bangalore-karnataka-html5-css3-javascript-react-node-nextjs-gatsby-webpack-server-side-rendering-seo-frontend-architectural-patterns-2023040115395664)| B.E / B.Tech. equivalent | 2/08/2023 | Unknown |
+
 
 ## Internships
