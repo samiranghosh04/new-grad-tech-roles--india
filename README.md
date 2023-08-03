@@ -60,8 +60,25 @@ Project Euler by FreeCodeCamp.org is a platform that presents a series of challe
 [TCS NQT Coding Sheet - Striver](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/)
 This contains all popular and most frequently asked coding questions asked in the TCS NQT test and other similar tests. The title “TCS NQT Coding Sheet – TCS Coding Questions” is exactly what it suggests. It contains detailed tutorials for the Top 100 TCS NQT Coding Questions. Created by Striver.
 
+[Pramp.com](https://www.pramp.com/#/)
+This is a place where you can take mock interviews and practice coding questions. If you want then your friends can take the interview or you can schedule a session with experienced interviewers.
+
+[Exponent](https://www.tryexponent.com/practice)
+A site similar to Pramp but this is also relevant for System Design and PM interviews.
+
 [Additional Resources](https://github.com/samiranghosh04/resourcesforstemdaa)
 This is a repo consisting of books, articles, and repositories.
+
+#### Aptitude Resources
+[Faceprep](https://www.faceprep.in/)
+
+[PrepInsta](https://prepinsta.com/)
+
+[IndiaBix](https://www.indiabix.com/)
+
+[Freshersworld](https://placement.freshersworld.com/aptitude-questions-and-answers)
+
+---
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
