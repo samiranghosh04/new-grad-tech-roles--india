@@ -38,7 +38,7 @@ Placeholders for the table are as follows:
 
 <br>
 
-- If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link, or add a new position name separated by a comma or a `<br>` tag.
+- If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link.
 
 <hr> [New Grad Product Manager]()
 
@@ -64,7 +64,7 @@ Placeholders for the table are as follows:
 3. Include the following details for each internship opportunity:
    - Company/Organization
    - Location
-   - Internship Position/Title
+   - Role
    - Duration
    - Eligibility Criteria
    - Stipend (if available)
