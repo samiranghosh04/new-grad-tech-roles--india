@@ -1,4 +1,4 @@
-# New Grad Tech Roles
+# New Grad Tech Roles - **India**
 
 Welcome to 2024 Tech Career Opportunities in India: Your one-stop repository for SWE, PM, Quant, Q/A, and other tech roles. Find full-time jobs, internships, and off-campus drives in India-based locations.🎉 This is a collection of full-time job openings for new grads in 2024 in the fields of Software Engineering (SWE), Quantitative Analysis, Product Management (PM), and other tech roles. This is heavily inspired by [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024/blob/main/README.md) and in fact, a lot of the interview prep resources are from there so feel free to check it out.
 
