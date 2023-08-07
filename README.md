@@ -81,6 +81,10 @@ This is a repo consisting of books, articles, and repositories.
 
 ---
 
+#### Important FREE Resource that practically everyone misses out on. 
+Please register yourself on the [GitHub Student Developer Pack](https://education.github.com/pack) if you are eligible. Trust me on this one. There are tonnes of free resources for skill development and interview prep. This also makes you eligible for [GitHub Octernships](https://education.github.com/globalcampus/octernships) (given that you also have a handful of Open Source Contributions and the technical acumen to fulfill any prerequisites for a given role offered through it i.e suppose the role asks for basics of MERN - then you should have a decent understanding of MERN.). The stipends are amazing, the internship experiences are extremely valuable and you get to learn a lot. Trust me on this one. I am regretting that I haven't discovered this earlier.
+
+---
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## Jobs
