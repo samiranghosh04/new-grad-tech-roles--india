@@ -19,16 +19,16 @@ Thank you for your interest in contributing to our repository! To ensure a smoot
 
 - If you were **ADDING** a job opening for *Flipkart*:
 
-| Company/Organisation | Location | Roles | Eligibility Criteria | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
-| -------------------- | -------- | ----- | -------------------- | --------------------------- |------------------------------------------------------|
+| Company | Location | Roles | Eligibility Criteria (Education) | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
+| ------- | -------- | ----- | -------------------------------- | --------------------------- |------------------------------------------------------|
 | [Flipkart]() | Chennai, Pune, Hyderabad | [New Grad Software Engineer II]()| B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
 
 
 Placeholders for the table are as follows:
-  - `Company/Organisation`: The name of the company.
+  - `Company`: The name of the company.
   - `Location`: The location(s) of the job opening.
   - `Roles`: Any additional Roles or links to the job posting. 
-  - `Eligibility Criteria`: The eligibility criteria for the jobs.
+  - `Eligibility Criteria (Education)`: The eligibility criteria for the jobs. Just keep it to the education required.
   - `Date Posted`: The date the job opening was posted. Must be in the format of `/dd/mm/yyyy`.
   - `Application Deadline (if available)`: The date the job opening was posted. Must be in the format of `dd/mm/yyyy`.
 
@@ -42,8 +42,8 @@ Placeholders for the table are as follows:
 
 <hr> [New Grad Product Manager]()
 
-| Company/Organisation | Location | Roles | Eligibility Criteria | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
-| -------------------- | -------- | ----- | -------------------- | --------------------------- |------------------------------------------------------|
+| Company | Location | Roles | Eligibility Criteria (Education) | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
+| ------- | -------- | ----- | -------------------------------- | --------------------------- |------------------------------------------------------|
 | [Flipkart]() | Chennai, Pune, Hyderabad |  [New Grad Software Engineer II]() <hr> [New Grad Product Manager]() | B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
 
 
