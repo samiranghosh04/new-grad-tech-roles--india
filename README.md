@@ -107,6 +107,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ ABB ](https://careers.abb/global/en/job/83270362/Data-Scientist) | Bangalore, KA | [ Data Scientist ](https://careers.abb/global/en/job/83270362/Data-Scientist)| Bachelor’s/Master’s degree in Applied Statistics/Mathematics, Engineering, Operations Research or related fields | 13/08/2023 | Unknown |
 | [ ABB ](https://careers.abb/global/en/job/85270063/Executive-Diploma-Engineer) | Vadodara, GJ | [ Executive Diploma Engineer ](https://careers.abb/global/en/job/85270063/Executive-Diploma-Engineer)| Candidate is pursuing a Diploma in Electrical, Electronics, Electronics & Communication Engineering, Computer Science, Instrumentation | 13/08/2023 | Unknown |
 | [ HCLTech ](https://www.hcltech.com/careers/campus-hiring) | - | [ Graduate Engineer Trainee ](https://www.hcltech.com/careers/campus-hiring)| Engineering graduates with degree in B.E/B.TECH/ M.E./M.TECH | 13/08/2023 | Unknown |
+| [ AMD ](https://careers.amd.com/careers-home/jobs/33630?lang=en-us) | Hyderabad, TG | [ Software Development Engineer 2 ](https://careers.amd.com/careers-home/jobs/33630?lang=en-us)| Bachelor’s or Master’s degree in Electronics, Computer Science, or related technical discipline | 16/08/2023 | Unknown |
 
 ---
 
@@ -121,6 +122,9 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ Uber ](https://www.linkedin.com/jobs/view/3680982912/?alternateChannel=search&refId=dDka3OIiY8vjZ23VGl3y0w%3D%3D&trackingId=5cEoCwY1ZlJryu7bMfPwxQ%3D%3D) | Bangalore, KA | [ Software Engineering Intern FY23-24-IIT Bombay ](https://www.linkedin.com/jobs/view/3680982912/?alternateChannel=search&refId=dDka3OIiY8vjZ23VGl3y0w%3D%3D&trackingId=5cEoCwY1ZlJryu7bMfPwxQ%3D%3D) | - | Actively pursuing a B.Tech or Integrated Dual Degree (anticipated graduation in 2025) in Computer Science, Electronics Eng, Electrical Engineering, Mechanical or Mathematical Sciences or related fields | - | 05/08/2023 | - |
 | [ PwC ](https://www.linkedin.com/jobs/view/3677051154/?alternateChannel=search&refId=RsKdmxskOFuZBf37%2BWju9Q%3D%3D&trackingId=XdQRokpzLQS4h6zSzvoGDg%3D%3D) | Gurugram, HR | [ SAP Intern/Trainee ](https://www.linkedin.com/jobs/view/3677051154/?alternateChannel=search&refId=RsKdmxskOFuZBf37%2BWju9Q%3D%3D&trackingId=XdQRokpzLQS4h6zSzvoGDg%3D%3D) | - | Degree and/or field of study not specified | - | 05/08/2023 | - |
 | [ Goldman Sachs ](https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html) | Multiple locations in India | [ 2024 Summer Analyst Program ](https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html) | - | Students graduating from a Bachelors or Masters degree program December 2024 - May 2025 | - | 13/08/2023 | - |
+| [ AMD ](https://careers.amd.com/students/jobs/29343?lang=en-us) | Hyderabad, TG | [ Co-Op/ Intern ](https://careers.amd.com/students/jobs/29343?lang=en-us) | - | M.Tech preferred | - | 16/08/2023 | - |
+| [ AMD ](https://careers.amd.com/students/jobs/29354?lang=en-us) | Hyderabad, TG | [ Co-Op/ Intern ](https://careers.amd.com/students/jobs/29354?lang=en-us) | - | Associates degree in Computer Science, Information Technology, Computer Information Systems or related discipline. <br><br>**Relevant experience may substitute for the degree requirement.** | - | 16/08/2023 | - |
+
 
 ---
 
