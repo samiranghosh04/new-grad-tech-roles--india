@@ -13,7 +13,8 @@ Welcome to 2024 Tech Career Opportunities in India: Your one-stop repository for
 2. [Full-Time Jobs](README.md#jobs)
 3. [Internships](README.md#jobs)
 4. [Off Campus Drives](README.md#off-campus-drives)
-5. [Contributing Guide](CONTRIBUTING.md)
+5. [Diversity Programs](README.md#diversity-programs)
+6. [Contributing Guide](CONTRIBUTING.md)
    
 
 ## Resources
@@ -110,6 +111,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ AMD ](https://careers.amd.com/careers-home/jobs/33630?lang=en-us) | Hyderabad, TG | [ Software Development Engineer 2 ](https://careers.amd.com/careers-home/jobs/33630?lang=en-us)| Bachelor’s or Master’s degree in Electronics, Computer Science, or related technical discipline | 16/08/2023 | Unknown |
 | [ Intel ](https://jobs.intel.com/en/job/bengaluru/physical-design-engineer-synthesis-automatic-placement-and-route/41147/50041451984) | Bengaluru, KA (Hybrid) | [ Physical design Engineer (Synthesis, Automatic Placement, and Route) ](https://jobs.intel.com/en/job/bengaluru/physical-design-engineer-synthesis-automatic-placement-and-route/41147/50041451984) | Candidate must have Master's degree (M.Tech/MS) in Microelectronics/VLSI/ Electronics Engineering or equivalent qualification from reputed institute | 16/08/2023 | Unknown |
 | [ Stripe ](https://stripe.com/jobs/listing/software-engineering-new-grad/5306085) | Bengaluru, KA| [ Software Engineering, New Grad ](https://stripe.com/jobs/listing/software-engineering-new-grad/5306085) | Bachelor’s, Master’s, or Ph.D in CS or a directly related field, obtained by summer 2024, or equivalent work experience | 21/08/2023 | Unknown |
+| [ Bright Money ](https://www.brightmoney.co/careers) | Bengaluru, KA| [ Multiple Positions - including internships ](https://www.brightmoney.co/careers) | Requirements vary according to the role. Some roles may require experienced candidates, some may be non-tech. Please read the JD and requirements carefully. | 21/08/2023 | Unknown |
 
 
 ---
@@ -131,9 +133,18 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 ---
 
-## Off Campus Drives
+## Off-Campus Drives
 
-| Off-Campus Drive          | Eligibility Criteria    | Location     | Date Posted <br> dd/mm/yyyy | Exam Date <br> dd/mm/yyyy | Application Deadline <br> dd/mm/yyyy |
----------------------------|-------------------------|--------------|-----------------------------|---------------------------|----------------------|
+| Off-Campus Drive | Eligibility Criteria | Location     | Date Posted <br> dd/mm/yyyy | Exam Date <br> dd/mm/yyyy | Application Deadline <br> dd/mm/yyyy |
+-------------------|----------------------|--------------|-----------------------------|---------------------------|----------------------|
 | [TCS - National Qualifier Test](https://learning.tcsionhub.in/hub/national-qualifier-test/) |  Students with UG, PG, and Diploma are in the 2025 PO, 2024 PO, or 2023 PO batch <br> or Freshers with less than 2 years of experience are eligible. <br> **Note - 60 % Throughout (X, XII, Diploma, UG, PG)  required** <br>   |  Online (TCS iON Portal) | 05/08/2023 | 16/09/2023 <br> (For September Exam) | 16/09/2023 <br> (For September Exam) |
+
+
+---
+
+## Diversity Programs
+
+| Company| Program Name | Program Type | Diversity Focus | Eligibility Criteria (Education) | Date Posted | Program Duration | Application Dealine |
+|--------|--------------|--------------|-----------------|----------------------------------|-------------|------------------|---------------------|
+| [D. E Shaw](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | [DESIS Ascend Educare 2023](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | Mentorship | Gender Diversity | 2nd/3rd-yr student in a BTech/BE program <br> OR 3rd/4th-yr student in a 5 yr dual degree program (BTech + MTech, BE + ME) <br> OR 1st-yr student in a two-year MTech/MS/MCA program <br> OR 2nd-yr student in a three-year MCA program | 16/08/2023 | 6 months <br> (Oct 2023 - Mar 2024) | 03-09-2023 |
 
