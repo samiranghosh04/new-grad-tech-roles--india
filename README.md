@@ -144,7 +144,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 
 ## Diversity Programs
 
-| Company| Program Name | Program Type | Diversity Focus | Eligibility Criteria (Education)               | Date Posted | Program Duration | Application Dealine |
-|--------|--------------|--------------|-----------------|------------------------------------------------|-------------|------------------|---------------------|
+| Company | Program Name | Program Type | Diversity Focus | Eligibility Criteria (Education) | Date Posted | Program Duration | Application Dealine |
+|---------|--------------|--------------|-----------------|--------------------------------- |-------------|------------------|---------------------|
 | [D. E Shaw](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | [DESIS Ascend Educare 2023](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | Mentorship | Gender Diversity | 2nd/3rd-yr student in a BTech/BE program <br> OR 3rd/4th-yr student in a 5 yr dual degree program (BTech + MTech, BE + ME) <br> OR 1st-yr student in a two-year MTech/MS/MCA program <br> OR 2nd-yr student in a three-year MCA program | 16/08/2023 | 6 months <br> (Oct 2023 - Mar 2024) | 03-09-2023 |
 
