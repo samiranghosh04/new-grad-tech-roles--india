@@ -109,6 +109,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ HCLTech ](https://www.hcltech.com/careers/campus-hiring) | - | [ Graduate Engineer Trainee ](https://www.hcltech.com/careers/campus-hiring)| Engineering graduates with degree in B.E/B.TECH/ M.E./M.TECH | 13/08/2023 | Unknown |
 | [ AMD ](https://careers.amd.com/careers-home/jobs/33630?lang=en-us) | Hyderabad, TG | [ Software Development Engineer 2 ](https://careers.amd.com/careers-home/jobs/33630?lang=en-us)| Bachelor’s or Master’s degree in Electronics, Computer Science, or related technical discipline | 16/08/2023 | Unknown |
 | [ Intel ](https://jobs.intel.com/en/job/bengaluru/physical-design-engineer-synthesis-automatic-placement-and-route/41147/50041451984) | Bengaluru, KA (Hybrid) | [ Physical design Engineer (Synthesis, Automatic Placement, and Route) ](https://jobs.intel.com/en/job/bengaluru/physical-design-engineer-synthesis-automatic-placement-and-route/41147/50041451984) | Candidate must have Master's degree (M.Tech/MS) in Microelectronics/VLSI/ Electronics Engineering or equivalent qualification from reputed institute | 16/08/2023 | Unknown |
+| [ Stripe ](https://stripe.com/jobs/listing/software-engineering-new-grad/5306085) | Bengaluru, KA| [ Software Engineering, New Grad ](https://stripe.com/jobs/listing/software-engineering-new-grad/5306085) | Bachelor’s, Master’s, or Ph.D in CS or a directly related field, obtained by summer 2024, or equivalent work experience | 21/08/2023 | Unknown |
 
 
 ---
