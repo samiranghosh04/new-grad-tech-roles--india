@@ -118,6 +118,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [  Boston Consulting Group ](https://careers.bcg.com/job/10050077/Software-Engineer-BCG-X) | - | [ Software Engineer - BCG X ](https://careers.bcg.com/job/10050077/Software-Engineer-BCG-X) | - | 22/08/2023 | Unknown |
 | [ Thermo Fisher Scientific ](https://www.linkedin.com/jobs/view/3693801773/) | Bengaluru, KA| [ BI Data Analyst - III ](https://www.linkedin.com/jobs/view/3693801773/) | Major in Computer Science, Statistics, Economics or related majors. | 22/08/2023 | Unknown |
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Software-Engineering-AMTS_JR211332-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG <br> Bengaluru, KA| [ Software Engineering AMTS ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Software-Engineering-AMTS_JR211332-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | B.E/ B.Tech 2024 grads (CSE, EE, ECE or equivalent fields with specialization in CS). ​<br> **7 CGPA and above with no backlogs.** | 23/08/2023 | Unknown |
+| [ Genpact ](https://www.linkedin.com/jobs/view/3689611133/?alternateChannel=search&refId=emCz23%2FVqaNlL43sC8kHMg%3D%3D&trackingId=VVUUY4H%2FI%2Fkrjlu%2FvWJM5w%3D%3D) | Gurugram, HR | [ Management Trainee - Python, LLM-COR026843 ](https://www.linkedin.com/jobs/view/3689611133/?alternateChannel=search&refId=emCz23%2FVqaNlL43sC8kHMg%3D%3D&trackingId=VVUUY4H%2FI%2Fkrjlu%2FvWJM5w%3D%3D) | Bachelor's degree in CS, IT, or related field | 24/08/2023 | Unknown |
+| [ IBM ](https://www.linkedin.com/jobs/view/3679064860/?alternateChannel=search&refId=oUWvThs1ETpei1IzpW7FHQ%3D%3D&trackingId=HMJKhZbpIvZroo8%2B6LJb7g%3D%3D) | Delhi, DL | [ Associate Systems Engineer ](https://www.linkedin.com/jobs/view/3679064860/?alternateChannel=search&refId=oUWvThs1ETpei1IzpW7FHQ%3D%3D&trackingId=HMJKhZbpIvZroo8%2B6LJb7g%3D%3D) | Programming (preferably in Java, Python, Node) & SDLC Concepts | 24/08/2023 | Unknown |
 
 
 ---
@@ -141,14 +143,15 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ Boston Consulting Group ](https://careers.bcg.com/job/10020535/Data-Scientist-Internship-BCG-X) | - | [ Data Scientist Internship – BCG X ](https://careers.bcg.com/job/10020535/Data-Scientist-Internship-BCG-X) | - | - | - | 22/08/2023 | - |
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212520?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG | [ Intern ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212520?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | - | B.Tech/BE student in the penultimate year of graduation in CS or IT | - | 23/08/2023 | - |
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212522-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG | [ Intern ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212522-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | - | Candidate is in 2nd year or higher at a college/university  | - | 23/08/2023 | - |
-
+| [ LinkedIn ](https://www.linkedin.com/jobs/view/3694138424/?alternateChannel=search&refId=1MiXtDOu%2BYXuLOsDN1BbAw%3D%3D&trackingId=OxPGNMjIhjzweFAR%2BJzoQg%3D%3D) | Bengaluru, KA | [ Software Engineering Intern ](https://www.linkedin.com/jobs/view/3694138424/?alternateChannel=search&refId=1MiXtDOu%2BYXuLOsDN1BbAw%3D%3D&trackingId=OxPGNMjIhjzweFAR%2BJzoQg%3D%3D) | - | Bachelor's in CE or CS, graduating by 2025  | - | 24/08/2023 | - |
+| [ BlinkIt ]() | Bengaluru, KA | [ Data Analyst - Intern ]() | - | Bachelor's in CE or CS, graduating by 2025  | - | 24/08/2023 | - |
 
 ---
 
 ## Off-Campus Drives
 
 | Off-Campus Drive | Eligibility Criteria | Location     | Date Posted <br> dd/mm/yyyy | Exam Date <br> dd/mm/yyyy | Application Deadline <br> dd/mm/yyyy |
--------------------|----------------------|--------------|-----------------------------|---------------------------|----------------------|
+-------------------|----------------------|--------------|-----------------------------|---------------------------|--------------------------------------|
 | [TCS - National Qualifier Test](https://learning.tcsionhub.in/hub/national-qualifier-test/) |  Students with UG, PG, and Diploma are in the 2025 PO, 2024 PO, or 2023 PO batch <br> or Freshers with less than 2 years of experience are eligible. <br> **Note - 60 % Throughout (X, XII, Diploma, UG, PG)  required** <br>   |  Online (TCS iON Portal) | 05/08/2023 | 16/09/2023 <br> (For September Exam) | 16/09/2023 <br> (For September Exam) |
 
 
@@ -159,6 +162,5 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | Company | Program Name | Program Type | Diversity Focus | Eligibility Criteria (Education) | Date Posted | Program Duration | Application Dealine |
 |---------|--------------|--------------|-----------------|--------------------------------- |-------------|------------------|---------------------|
 | [ D. E Shaw ](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | [DESIS Ascend Educare 2023](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | Mentorship | Gender Diversity | 2nd/3rd-yr student in a BTech/BE program <br> OR 3rd/4th-yr student in a 5 yr dual degree program (BTech + MTech, BE + ME) <br> OR 1st-yr student in a two-year MTech/MS/MCA program <br> OR 2nd-yr student in a three-year MCA program | 21/08/2023 | 6 months <br> (Oct 2023 - Mar 2024) | 03/09/2023 |
-| [ Outreachy ](https://www.outreachy.org/apply/) | [ December 2023 Internships ](https://www.outreachy.org/apply/) | Internship | Various (Gender, race, sexuality, caste, discrimination, etc) | - | 21/08/2023 | 3 months <br> (Dec 2023 - Mar 2024) | 22/09/2023 |
 | [ Outreachy ](https://www.outreachy.org/apply/) | [ May 2024 Internships ](https://www.outreachy.org/apply/) | Internship | Various (Gender, race, sexuality, caste, discrimination, etc) | - | 21/08/2023 | 3 months <br> (May 2024 - Aug 2024) <br> **Note - Applications will be accepted from mid-Jan - early Feb** | - |
 
