@@ -144,6 +144,10 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212520?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG | [ Intern ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212520?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | - | B.Tech/BE student in the penultimate year of graduation in CS or IT | - | 23/08/2023 | - |
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212522-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG | [ Intern ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212522-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | - | Candidate is in 2nd year or higher at a college/university  | - | 23/08/2023 | - |
 | [ LinkedIn ](https://www.linkedin.com/jobs/view/3694138424/?alternateChannel=search&refId=1MiXtDOu%2BYXuLOsDN1BbAw%3D%3D&trackingId=OxPGNMjIhjzweFAR%2BJzoQg%3D%3D) | Bengaluru, KA | [ Software Engineering Intern ](https://www.linkedin.com/jobs/view/3694138424/?alternateChannel=search&refId=1MiXtDOu%2BYXuLOsDN1BbAw%3D%3D&trackingId=OxPGNMjIhjzweFAR%2BJzoQg%3D%3D) | - | Bachelor's in CE or CS, graduating by 2025  | - | 24/08/2023 | - |
+| [ Cisco ](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Internal-Applications-Intern-India-UHR/1404509) | Bengaluru, KA | [ Software Engineer – Internal Applications (Intern) - India UHR ](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Internal-Applications-Intern-India-UHR/1404509) | - | For 2024/25 pass outs only. | - | 25/08/2023 | - |
+
+
+
 
 ---
 
