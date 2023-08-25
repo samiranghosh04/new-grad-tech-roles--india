@@ -120,6 +120,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Software-Engineering-AMTS_JR211332-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG <br> Bengaluru, KA| [ Software Engineering AMTS ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Software-Engineering-AMTS_JR211332-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | B.E/ B.Tech 2024 grads (CSE, EE, ECE or equivalent fields with specialization in CS). ​<br> **7 CGPA and above with no backlogs.** | 23/08/2023 | Unknown |
 | [ Genpact ](https://www.linkedin.com/jobs/view/3689611133/?alternateChannel=search&refId=emCz23%2FVqaNlL43sC8kHMg%3D%3D&trackingId=VVUUY4H%2FI%2Fkrjlu%2FvWJM5w%3D%3D) | Gurugram, HR | [ Management Trainee - Python, LLM-COR026843 ](https://www.linkedin.com/jobs/view/3689611133/?alternateChannel=search&refId=emCz23%2FVqaNlL43sC8kHMg%3D%3D&trackingId=VVUUY4H%2FI%2Fkrjlu%2FvWJM5w%3D%3D) | Bachelor's degree in CS, IT, or related field | 24/08/2023 | Unknown |
 | [ IBM ](https://www.linkedin.com/jobs/view/3679064860/?alternateChannel=search&refId=oUWvThs1ETpei1IzpW7FHQ%3D%3D&trackingId=HMJKhZbpIvZroo8%2B6LJb7g%3D%3D) | Delhi, DL | [ Associate Systems Engineer ](https://www.linkedin.com/jobs/view/3679064860/?alternateChannel=search&refId=oUWvThs1ETpei1IzpW7FHQ%3D%3D&trackingId=HMJKhZbpIvZroo8%2B6LJb7g%3D%3D) | Programming (preferably in Java, Python, Node) & SDLC Concepts | 24/08/2023 | Unknown |
+| [ KPMG ](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/INTG1009304/?keyword=Software+Engineering&mode=location) | Bangalore, KA | [ Software Engineering ](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/INTG1009304/?keyword=Software+Engineering&mode=location) | BE/B.Tech/ME/M.Tech/MCA /Any Graduation | 24/08/2023 | Unknown |
+
 
 
 ---
@@ -145,7 +147,8 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ Salesforce ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212522-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | Hyderabad, TG | [ Intern ](https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_NewGradRoles/details/Intern_JR212522-1?CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=c4f78be1a8f14da0ab49ce1162348a5e) | - | Candidate is in 2nd year or higher at a college/university  | - | 23/08/2023 | - |
 | [ LinkedIn ](https://www.linkedin.com/jobs/view/3694138424/?alternateChannel=search&refId=1MiXtDOu%2BYXuLOsDN1BbAw%3D%3D&trackingId=OxPGNMjIhjzweFAR%2BJzoQg%3D%3D) | Bengaluru, KA | [ Software Engineering Intern ](https://www.linkedin.com/jobs/view/3694138424/?alternateChannel=search&refId=1MiXtDOu%2BYXuLOsDN1BbAw%3D%3D&trackingId=OxPGNMjIhjzweFAR%2BJzoQg%3D%3D) | - | Bachelor's in CE or CS, graduating by 2025  | - | 24/08/2023 | - |
 | [ Cisco ](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Internal-Applications-Intern-India-UHR/1404509) | Bengaluru, KA | [ Software Engineer – Internal Applications (Intern) - India UHR ](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Internal-Applications-Intern-India-UHR/1404509) | - | For 2024/25 pass outs only. | - | 25/08/2023 | - |
-
+| [ Microsoft ](https://jobs.careers.microsoft.com/global/en/job/1611861/Silicon-Engineer---Internship-Opportunities) | Bengaluru, KA <br> Noida, UP <br> Hyderabad, TG <br> **Upto 50% WFH** | [ Silicon Engineer - Intern ](https://jobs.careers.microsoft.com/global/en/job/1611861/Silicon-Engineer---Internship-Opportunities) | - | Candidate is working towards a master’s degree in Electrical Engineering, Computer Engineering, Computer Science or a related degree | - | 26/08/2023 | - |
+| [ Postman ](https://www.postman.com/company/careers/revenue-operations-intern-5721513003/) | Remote (India) | [ Silicon Engineer - Intern ](https://www.postman.com/company/careers/revenue-operations-intern-5721513003/) | 6 months (min) | Final year UG students with previous internship experience in an analytics/operations-driven role in the services industry or SaaS or software products. | - | 26/08/2023 | - |
 
 
 
@@ -158,6 +161,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [TCS - National Qualifier Test](https://learning.tcsionhub.in/hub/national-qualifier-test/) |  Students with UG, PG, and Diploma are in the 2025 PO, 2024 PO, or 2023 PO batch <br> or Freshers with less than 2 years of experience are eligible. <br> **Note - 60 % Throughout (X, XII, Diploma, UG, PG)  required** <br>   |  Online (TCS iON Portal) | 05/08/2023 | 16/09/2023 <br> (For September Exam) | 16/09/2023 <br> (For September Exam) |
 
 
+
 ---
 
 ## Diversity Programs
@@ -166,4 +170,30 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 |---------|--------------|--------------|-----------------|--------------------------------- |-------------|------------------|---------------------|
 | [ D. E Shaw ](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | [DESIS Ascend Educare 2023](https://www.deshawindia.com/forms/REQ5Qjg1RTktM0Q5NC00QjhFLTkyNDYtNTE1OENENjE5QjhB) | Mentorship | Gender Diversity | 2nd/3rd-yr student in a BTech/BE program <br> OR 3rd/4th-yr student in a 5 yr dual degree program (BTech + MTech, BE + ME) <br> OR 1st-yr student in a two-year MTech/MS/MCA program <br> OR 2nd-yr student in a three-year MCA program | 21/08/2023 | 6 months <br> (Oct 2023 - Mar 2024) | 03/09/2023 |
 | [ Outreachy ](https://www.outreachy.org/apply/) | [ May 2024 Internships ](https://www.outreachy.org/apply/) | Internship | Various (Gender, race, sexuality, caste, discrimination, etc) | - | 21/08/2023 | 3 months <br> (May 2024 - Aug 2024) <br> **Note - Applications will be accepted from mid-Jan - early Feb** | - |
+
+
+
+---
+
+## Talent Network Opportunities
+
+This section provides direct links to talent network forms and registration pages offered by various companies in the tech industry. Join these talent networks to stay updated on future job openings, company news, and networking opportunities. Explore the options below to connect with leading companies in the field.
+
+| Company Name | Talent Network Name                                      | Additional Notes                       | Date Posted |
+|--------------|----------------------------------------------------------|----------------------------------------|---------------|
+| [ JPMorgan Chase ](https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg) | [ JPMorgan Chase Talent Network ](https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg) | for freshers only | 26/08/2023 |
+| [ Postman ](https://www.postman.com/company/careers/other-careers-5273151003/) | [ Other Careers - Remote ](https://www.postman.com/company/careers/other-careers-5273151003/) | For freshers and experienced candidates | 26/08/2023 |
+
+
+
+---
+
+## Hackathons
+
+Coming Soon
+
+
+
+---
+
 
