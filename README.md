@@ -14,7 +14,9 @@ Welcome to 2024 Tech Career Opportunities in India: Your one-stop repository for
 3. [Internships](README.md#jobs)
 4. [Off Campus Drives](README.md#off-campus-drives)
 5. [Diversity Programs](README.md#diversity-programs)
-6. [Contributing Guide](CONTRIBUTING.md)
+6. [Talent Network Opportunities](README.md#talent-network-opportunities)
+7. [Hackathons](README.md#hackathons)
+8. [Contributing Guide](CONTRIBUTING.md)
    
 
 ## Resources
