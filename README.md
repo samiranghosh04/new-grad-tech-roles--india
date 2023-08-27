@@ -124,6 +124,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ IBM ](https://www.linkedin.com/jobs/view/3679064860/?alternateChannel=search&refId=oUWvThs1ETpei1IzpW7FHQ%3D%3D&trackingId=HMJKhZbpIvZroo8%2B6LJb7g%3D%3D) | Delhi, DL | [ Associate Systems Engineer ](https://www.linkedin.com/jobs/view/3679064860/?alternateChannel=search&refId=oUWvThs1ETpei1IzpW7FHQ%3D%3D&trackingId=HMJKhZbpIvZroo8%2B6LJb7g%3D%3D) | Programming (preferably in Java, Python, Node) & SDLC Concepts | 24/08/2023 | Unknown |
 | [ KPMG ](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/INTG1009304/?keyword=Software+Engineering&mode=location) | Bangalore, KA | [ Software Engineering ](https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/INTG1009304/?keyword=Software+Engineering&mode=location) | BE/B.Tech/ME/M.Tech/MCA /Any Graduation | 26/08/2023 | Unknown |
 | [ Devfolio ](https://devfolio.notion.site/Join-us-Devfolio-2d5f95743e57493f85d75ce50c085ab1) | - | [ Multiple Full Time Roles and Internships ](https://devfolio.notion.site/Join-us-Devfolio-2d5f95743e57493f85d75ce50c085ab1) | Qualifications vary as per the role <br> **Note - Some roles aren't for freshers** | 26/08/2023 | Unknown |
+| [ Turing ](https://www.linkedin.com/jobs/view/3683510219/) | Remote (India) | [ Front End Engineer ](https://www.linkedin.com/jobs/view/3683510219/) | Bachelor’s/Master’s degree in Computer Science (or equivalent experience) | 27/08/2023 | Unknown |
 
 
 ---
@@ -191,7 +192,7 @@ This section provides direct links to talent network forms and registration page
 ## Hackathons
 | Hackathon Name                                      | Organizer | Description                            | Date Posted | Registration Deadline | Start Date | End Date |
 |-----------------------------------------------------|-----------|----------------------------------------|---------------|-----------------------|----------|----------|
-| [ Coca-Cola Disrupt Season 3 ](https://unstop.com/competitions/coca-cola-disrupt-season-3-hindustan-coca-cola-beverages-709347) | Hindustan Coca-Cola Beverages | Solve real-world challenges with innovative ideas | 26/08/2023 | 27/08/2023 11:59 p.m IST | 28/08/2023 12:00 PM IST | - |
+|No Leads Available For Now.|
 
 
 
