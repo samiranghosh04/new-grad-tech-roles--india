@@ -10,13 +10,14 @@ Welcome to New Grad Tech Roles - India: Your one-stop repository for SWE, PM, Qu
 
 ## Table of Contents
 1. [Helpful Resources 🎯](README.md#resources)
-2. [Full-Time Jobs](README.md#jobs)
-3. [Internships](README.md#jobs)
-4. [Off Campus Drives](README.md#off-campus-drives)
-5. [Diversity Programs](README.md#diversity-programs)
-6. [Talent Network Opportunities](README.md#talent-network-opportunities)
-7. [Hackathons](README.md#hackathons)
-8. [Contributing Guide](CONTRIBUTING.md)
+2. [Mental Health Resources](README.md#mental-health-resources)
+3. [Full-Time Jobs](README.md#jobs)
+4. [Internships](README.md#jobs)
+5. [Off Campus Drives](README.md#off-campus-drives)
+6. [Diversity Programs](README.md#diversity-programs)
+7. [Talent Network Opportunities](README.md#talent-network-opportunities)
+8. [Hackathons](README.md#hackathons)
+9. [Contributing Guide](CONTRIBUTING.md)
    
 
 ## Resources
@@ -85,10 +86,38 @@ This is a repo consisting of books, articles, and repositories.
 ---
 
 #### Important FREE Resource that practically everyone misses out on. 
-Please register yourself on the [GitHub Student Developer Pack](https://education.github.com/pack) if you are eligible. Trust me on this one. There are tonnes of free resources for skill development and interview prep. This also makes you eligible for [GitHub Octernships](https://education.github.com/globalcampus/octernships) (given that you also have a handful of Open Source Contributions and the technical acumen to fulfill any prerequisites for a given role offered through it i.e suppose the role asks for basics of MERN - then you should have a decent understanding of MERN.). The stipends are amazing, the internship experiences are extremely valuable and you get to learn a lot. Trust me on this one. I am regretting that I haven't discovered this earlier.
+Please register yourself on the [GitHub Student Developer Pack](https://education.github.com/pack) if you are eligible. Trust me on this one. There are tonnes of free resources for skill development and interview prep. This also makes you eligible for [GitHub Octernships](https://education.github.com/globalcampus/octernships) (given that you also have a handful of Open Source Contributions and the technical acumen to fulfill any prerequisites for a given role offered through it i.e. suppose the role asks for basics of MERN - then you should have a decent understanding of MERN.). The stipends are amazing, the internship experiences are extremely valuable and you get to learn a lot. Trust me on this one. I regret that I haven't discovered this earlier.
 
 ---
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
+
+
+## Mental Health Resources
+
+Embarking on your tech career journey as a new graduate during a recession comes with its own set of challenges. This section is dedicated to equipping you with essential mental health and well-being resources specifically tailored to the unique circumstances you might encounter. As you navigate the dynamic landscape of the tech industry, remember that facing rejection or encountering difficulty in finding promising leads does not diminish your worth or potential.
+
+The resources compiled here are designed to offer you the support you need to manage the emotional toll that job searching during uncertain times can bring. From helplines that provide empathetic listening to online platforms that offer professional counseling, these resources are here to guide you through the highs and lows of pursuing a tech role. Embrace the understanding that your journey might include setbacks, but these setbacks do not define you. Rejections or challenges are not indicators of your abilities or character; rather, they are a part of the learning process in a competitive field.
+
+In the ever-evolving world of technology, the importance of mental well-being cannot be overstated. Prioritizing self-care and seeking help when needed will not only contribute to your personal growth but will also fortify your resilience in the face of adversity. Remember, your journey is unique, and each experience—whether it's a success or a challenge—adds to your story. By taking care of your mental health, you're setting the foundation for a successful and fulfilling career in the tech industry.
+
+**Disclaimer:** The provided information is intended for general guidance and awareness purposes only. While we strive to maintain accurate and up-to-date information, the availability and details of mental health resources may change over time. It's recommended to verify the authenticity and current status of any resource before seeking assistance. If you or someone you know is in need of immediate help, please reach out to a qualified mental health professional or a medical emergency service.
+
+<br><br><br>
+
+
+| Resource Name | Description                                           | Website                                          | Phone Number              | Email | Access Cost                       |
+|---------------|-------------------------------------------------------|--------------------------------------------------|---------------------------|-------|-----------------------------------|
+| Vandrevala Foundation | Offers helpline and support for various mental health concerns. | [vandrevalafoundation.com](http://www.vandrevalafoundation.com/) | +919999666555 | https://www.thelivelovelaughfoundation.org/ | Helplines is free but they also offer paid counseling. |
+| iCall | Provides emotional support, information, and referral services. | [icallhelpline.org](http://icallhelpline.org/) | 9152987821 <br><br> (Mon-Sat, 10am-8pm) | icall@tiss.edu | Free                       |
+| Sumaitri | Provides a helpline for emotional support and suicide prevention. | [sumaitri.net](https://www.sumaitri.net/) | 011-46018404 <br>+91-9315767849 <br><br> (12:30 PM to 5:00 PM) |  feelingsuicidal@sumaitri.net | Free                       |
+| Manastha | Online platform providing therapy and counseling services. | [manastha.com](https://www.manastha.com/) | - |  | Paid (Cost depends on service and service provider) | 
+| YourDOST | Offers online counseling and emotional well-being support. | [yourdost.com](https://www.yourdost.com/) | - |  | Paid (Cost depends on service and service provider) |
+| The Live Love Laugh Foundation | Aims to raise awareness about mental health and provide support. | [thelivelovelaughfoundation.org](https://www.thelivelovelaughfoundation.org/) | - | - | - | 
+| Parivarthan | Non-profit mental health services with confidential, ethical helplines. | [https://parivarthan.org/](https://parivarthan.org/) | 080-25273462, 080-25298686 <br><br> (Mon to FRI, 9.30 am to 5 pm)| - | Free                       |
+| Arpita Suicide Prevention Helpline | Experienced volunteers provide free suicide prevention support. | - | 080-23655557 <br><br> (10:00 AM - 01:00 PM and <br> 02:00 PM - 05:00 PM) | Mon to Fri) | arpita.helpline@gmail.com | Free                       |
+| AASRA | Free suicide prevention by experienced volunteers, including state-wise helpline repository. | [aasra.info/helpline.html](http://www.aasra.info/helpline.html) | 91-9820466726 | - | Free                       |
+
+---
 
 ## Jobs
 | Company | Location | Roles | Eligibility Criteria (Education) | Date Posted <br> dd/mm/yyyy | Application Deadline (if available) <br> dd/mm/yyyy |
