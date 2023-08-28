@@ -1,6 +1,6 @@
 # New Grad Tech Roles - **India**
 
-Welcome to 2024 Tech Career Opportunities in India: Your one-stop repository for SWE, PM, Quant, Q/A, and other tech roles. Find full-time jobs, internships, and off-campus drives in India-based locations.🎉 This is a collection of full-time job openings for new grads in 2024 in the fields of Software Engineering (SWE), Quantitative Analysis, Product Management (PM), and other tech roles. This is heavily inspired by [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024/blob/main/README.md) and in fact, a lot of the interview prep resources are from there so feel free to check it out.
+Welcome to New Grad Tech Roles - India: Your one-stop repository for SWE, PM, Quant, Q/A, and other tech roles. Find full-time jobs, internships, and off-campus drives in India-based locations.🎉 This is a collection of full-time job openings for new grads in 2024 in the fields of Software Engineering (SWE), Quantitative Analysis, Product Management (PM), and other tech roles. This is heavily inspired by [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024/blob/main/README.md) and in fact, a lot of the interview prep resources are from there so feel free to check it out.
 
 🙏 **We welcome contributions from the community! Please submit a pull request, and we will update them.**
 
@@ -131,6 +131,7 @@ Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Intervie
 | [ KPMG ](https://www.linkedin.com/jobs/view/3696309835/?alternateChannel=search&refId=q0RdFGqAu74ULZoSmf%2Bgtg%3D%3D&trackingId=Ip5IrmTsTK6CG8DRy%2F98WA%3D%3D) | Bengaluru, KA | [ SRE- AM ](https://www.linkedin.com/jobs/view/3696309835/?alternateChannel=search&refId=q0RdFGqAu74ULZoSmf%2Bgtg%3D%3D&trackingId=Ip5IrmTsTK6CG8DRy%2F98WA%3D%3D) | BE / B.Tech | 27/08/2023 | Unknown |
 | [ KPMG ](https://www.linkedin.com/jobs/view/3685553442/?alternateChannel=search&refId=q0RdFGqAu74ULZoSmf%2Bgtg%3D%3D&trackingId=WfR6Od9J9NrKxvo88Sy%2FlA%3D%3D) |  Pune, MH (Hybrid) | [ Analyst-Full Stack Developer(FRM)-Pune ](https://www.linkedin.com/jobs/view/3685553442/?alternateChannel=search&refId=q0RdFGqAu74ULZoSmf%2Bgtg%3D%3D&trackingId=WfR6Od9J9NrKxvo88Sy%2FlA%3D%3D) | B.Tech | 27/08/2023 | Unknown |
 | [ KPMG ](https://www.linkedin.com/jobs/view/3674623901/?alternateChannel=search&refId=q0RdFGqAu74ULZoSmf%2Bgtg%3D%3D&trackingId=7fMs%2Bcm8hthsQZrmYIlnaA%3D%3D) | Noida, UP | [ Risk Advisory IA - Tech Analyst Noida ](https://www.linkedin.com/jobs/view/3674623901/?alternateChannel=search&refId=q0RdFGqAu74ULZoSmf%2Bgtg%3D%3D&trackingId=7fMs%2Bcm8hthsQZrmYIlnaA%3D%3D) | BE/B.Tech, BCom, BMS, BBM or similar degree | 27/08/2023 | Unknown |
+| [ Ericsson ](https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756355532&query=Intern&location=India&domain=ericsson.com&sort_by=relevance&utm_source=ericsson.com&utm_campaign=search_widget&triggerGoButton=false&job_index=1) | Noida, UP | [ Associate Engineer ](https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756355532&query=Intern&location=India&domain=ericsson.com&sort_by=relevance&utm_source=ericsson.com&utm_campaign=search_widget&triggerGoButton=false&job_index=1) | Bachelors of engineering or similar | 28/08/2023 | Unknown |
 
 
 ---
@@ -190,7 +191,8 @@ This section provides direct links to talent network forms and registration page
 |--------------|----------------------------------------------------------|----------------------------------------|---------------|
 | [ JPMorgan Chase ](https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg) | [ JPMorgan Chase Talent Network ](https://jpmc.recsolu.com/app/collect/form/DzxUSeMxXyIfhXycFNIbEg) | for freshers only | 26/08/2023 |
 | [ Postman ](https://www.postman.com/company/careers/other-careers-5273151003/) | [ Other Careers - Remote ](https://www.postman.com/company/careers/other-careers-5273151003/) | For freshers and experienced candidates | 26/08/2023 |
-
+| [ Wells Fargo ](https://flows.beamery.com/wellsfargo/jointhetalentcommunity) | [ Wells Fargo Talent Community ](https://flows.beamery.com/wellsfargo/jointhetalentcommunity) | For freshers and experienced candidates | 28/08/2023 |
+| [ Ericsson ](https://jobs.ericsson.com/careers/join?domain=ericsson.com) | [ Ericsson Talent Network ](https://jobs.ericsson.com/careers/join?domain=ericsson.com) | For freshers and experienced candidates | 28/08/2023 |
 
 
 ---
