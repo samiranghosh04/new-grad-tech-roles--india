@@ -101,10 +101,9 @@ Please register yourself on the [GitHub Student Developer Pack](https://educatio
        
 These resources are especially helpful for Indian students aiming to work in the US and seeking information about potential employers.
 
+<hr>
 
 ## Mental Health Resources
-
-<hr>
 
 Embarking on your tech career journey as a new graduate during a recession comes with its own set of challenges. This section is dedicated to equipping you with essential mental health and well-being resources specifically tailored to the unique circumstances you might encounter. As you navigate the dynamic landscape of the tech industry, remember that facing rejection or encountering difficulty in finding promising leads does not diminish your worth or potential.
 
