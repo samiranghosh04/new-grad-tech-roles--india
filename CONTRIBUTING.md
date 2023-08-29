@@ -2,6 +2,27 @@
 
 Thank you for your interest in contributing to our repository! To ensure a smooth and organized process, please follow these guidelines when adding job postings, internship leads, or updating resources to the README file:
 
+
+## Table of Contents
+
+1. [Updating Resources](#updating-resources)
+2. [Adding Mental Health Resources](#adding-mental-health-resources)
+3. [Adding Job Postings](#adding-job-postings)
+4. [Poating Intenrship Leaads](#posting-internship-leads)
+5. [Adding Off-Campus Drives](#adding-off-campus-drives)
+6. [Adding Diversity Programs](#adding-diversity-programs)
+7. [Adding Talent Network Leads](#adding-talent-network-leads)
+8. [Adding Hackathons](#adding-hackathons)
+9. [Posting Community Insights](#posting-community-insights)
+10. [Submitting Your Contribution](#submitting-your-contribution)
+ 
+### Updating Resources
+
+1. Under the "Resources" section in the `README.md` file, add or modify any relevant resources.
+2. Clearly mention the title or topic of the resource, followed by a brief description or summary.
+3. If the resource is an external link, ensure it is properly formatted and clickable.
+
+
 ### Adding Job Postings
 
 1. Navigate to the `README.md` file.
@@ -27,7 +48,7 @@ Thank you for your interest in contributing to our repository! To ensure a smoot
 Placeholders for the table are as follows:
   - `Company`: The name of the company.
   - `Location`: The location(s) of the job opening.
-  - `Roles`: Any additional Roles or links to the job posting. 
+  - `Roles`: Any Roles or links to the job posting. 
   - `Eligibility Criteria (Education)`: The eligibility criteria for the jobs. Just keep it to the education required.
   - `Date Posted`: The date the job opening was posted. Must be in the format of `/dd/mm/yyyy`.
   - `Application Deadline (if available)`: The date the job opening was posted. Must be in the format of `dd/mm/yyyy`.
@@ -38,19 +59,6 @@ Placeholders for the table are as follows:
 
 <br>
 
-- If **UPDATING** a job opening, please follow the same format as above, but replace the link to the job posting with the new link.
-
-<hr> [New Grad Product Manager]()
-
-| Company | Location | Roles | Eligibility Criteria (Education) | Date Posted <br> mm/dd/yyyy | Application Deadline (if available) <br> mm/dd/yyyy |
-| ------- | -------- | ----- | -------------------------------- | --------------------------- |------------------------------------------------------|
-| [Flipkart]() | Chennai, Pune, Hyderabad |  [New Grad Software Engineer II]() <hr> [New Grad Product Manager]() | B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | 2/08/2023 | 17/08/2023 | 
-
-
-
-```java
-| [Company Name](link-to-job-posting) | Location (s)  | [Position Name](link-to-job-posting), [New Position Name 2](link-to-job-posting-2)| B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | dd/mm/yyyy | dd/mm/yyyy |
-```
 
 
 </details> 
@@ -73,11 +81,36 @@ Placeholders for the table are as follows:
   
 Please ensure that a format similar to the jobs is applied here
 
-### Updating Resources
+<details>
+<summary><b>Table Example</b> -- click here</summary> <br>
 
-1. Under the "Resources" section in the `README.md` file, add or modify any relevant resources.
-2. Clearly mention the title or topic of the resource, followed by a brief description or summary.
-3. If the resource is an external link, ensure it is properly formatted and clickable.
+- If you were **ADDING** a intenrship opening for *Microsoft*:
+
+| Company | Location | Role | Duration | Eligibility Criteria (Education) | Stipend | Date Posted <br> dd/mm/yyyy | Application Deadline <br> dd/mm/yyyy |
+|---------|----------|------|----------|----------------------------------|---------|-----------------------------|--------------------------------------|
+| [Microsoft]() | Bangalore, KA | [Software Engineering - Internship Opportunities]() | - | Bachelors/Masters in Engineering/CS/related field | - | 03/08/2023 | - |
+
+
+Placeholders for the table are as follows:
+  - `Company`: The name of the company.
+  - `Location`: The location(s) of the job opening.
+  - `Roles`: Any additional Roles or links to the job posting.
+  - `Duration`: Duration of the internship.
+  - `Eligibility Criteria (Education)`: The eligibility criteria for the jobs. Just keep it to the education required.
+  - `Stipend`: Stipend provided for the internship.
+  - `Date Posted`: The date the job opening was posted. Must be in the format of `/dd/mm/yyyy`.
+  - `Application Deadline (if available)`: The date the job opening was posted. Must be in the format of `dd/mm/yyyy`.
+
+```java
+| [Company Name](link-to-job-posting) | Location (s)  | [Role](link-to-job-posting)| Duration | B.Tech(CSE, ECE, EE, IT), BCA, MCA or any other equivalent degree | Stipend | dd/mm/yyyy | dd/mm/yyyy |
+```
+
+<br>
+
+
+
+</details> 
+
 
 ### Submitting Your Contribution
 
