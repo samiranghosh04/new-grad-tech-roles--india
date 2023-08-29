@@ -74,6 +74,8 @@ A site similar to Pramp but this is also relevant for System Design and PM inter
 [Additional Resources](https://github.com/samiranghosh04/resourcesforstemdaa)
 This is a repo consisting of books, articles, and repositories.
 
+Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
+
 #### Aptitude Resources
 [Faceprep](https://www.faceprep.in/)
 
@@ -89,10 +91,20 @@ This is a repo consisting of books, articles, and repositories.
 Please register yourself on the [GitHub Student Developer Pack](https://education.github.com/pack) if you are eligible. Trust me on this one. There are tonnes of free resources for skill development and interview prep. This also makes you eligible for [GitHub Octernships](https://education.github.com/globalcampus/octernships) (given that you also have a handful of Open Source Contributions and the technical acumen to fulfill any prerequisites for a given role offered through it i.e. suppose the role asks for basics of MERN - then you should have a decent understanding of MERN.). The stipends are amazing, the internship experiences are extremely valuable and you get to learn a lot. Trust me on this one. I regret that I haven't discovered this earlier.
 
 ---
-Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
+
+### US Employment Resources
+
+ - [h1bdata.info](https://www.h1bdata.info/)
+     - Check if a company has sponsored H1B candidates in the past.
+ - [e-verify.gov](https://www.e-verify.gov/)
+     - Check if a company is e-verified (i.e., allows for F-1 OPT STEM extension of 24 months).
+       
+These resources are especially helpful for Indian students aiming to work in the US and seeking information about potential employers.
 
 
 ## Mental Health Resources
+
+<hr>
 
 Embarking on your tech career journey as a new graduate during a recession comes with its own set of challenges. This section is dedicated to equipping you with essential mental health and well-being resources specifically tailored to the unique circumstances you might encounter. As you navigate the dynamic landscape of the tech industry, remember that facing rejection or encountering difficulty in finding promising leads does not diminish your worth or potential.
 
@@ -102,7 +114,7 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 
 **Disclaimer:** The provided information is intended for general guidance and awareness purposes only. While we strive to maintain accurate and up-to-date information, the availability and details of mental health resources may change over time. It's recommended to verify the authenticity and current status of any resource before seeking assistance. If you or someone you know is in need of immediate help, please reach out to a qualified mental health professional or a medical emergency service.
 
-<br><br><br>
+<br><br><br> <hr>
 
 
 | Resource Name | Description                                           | Website                                          | Phone Number              | Email | Access Cost                       |
@@ -120,6 +132,11 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 ---
 
 ## Jobs
+
+The "Jobs" section of the New Grad Tech Roles - India repository serves as a curated collection of full-time job openings tailored for recent graduates in the Indian tech industry. This section provides essential details about each job opportunity, including the company name, location, available roles, eligibility criteria, posting date, and application deadline. Designed to streamline the job search process, this section enables new graduates to discover relevant positions and embark on their tech careers with confidence. The listings cover a diverse range of tech roles, making it a valuable resource for individuals from various technical backgrounds. It's important to note that applicants should verify details and apply through official company channels for accurate and up-to-date information.
+
+<br><br><br>
+
 | Company | Location | Roles | Eligibility Criteria (Education) | Date Posted <br> dd/mm/yyyy | Application Deadline (if available) <br> dd/mm/yyyy |
 | ------- | -------- | ----- | -------------------------------- | --------------------------- |------------------------------------------------------|
 | [ Flipkart ](https://www.flipkartcareers.com/#!/job-view/ui-engineer-ii-cleartrip-bangalore-karnataka-html5-css3-javascript-react-node-nextjs-gatsby-webpack-server-side-rendering-seo-frontend-architectural-patterns-2023040115395664) | Bengaluru, KA | [ UI Engineer II - Cleartrip ](https://www.flipkartcareers.com/#!/job-view/ui-engineer-ii-cleartrip-bangalore-karnataka-html5-css3-javascript-react-node-nextjs-gatsby-webpack-server-side-rendering-seo-frontend-architectural-patterns-2023040115395664)| B.E / B.Tech. equivalent | 2/08/2023 | Unknown |
@@ -166,6 +183,11 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 ---
 
 ## Internships
+
+The "Internships" section within the New Grad Tech Roles - India repository is a dedicated resource offering a curated selection of internship opportunities for aspiring tech professionals. This section features insightful details about each internship, including the company's name, location, role, duration, eligibility criteria, stipend information, posting date, and application deadline. Tailored to new graduates and students, this section assists individuals in finding internships that align with their career interests and educational background. Internships serve as invaluable stepping stones in a tech career, offering hands-on experience, skill development, industry exposure, and networking opportunities. These opportunities allow individuals to bridge the gap between academic learning and real-world application, gaining practical insights into their chosen field. Internships also enable students to explore their interests, enhance their resume, and make informed career choices. Aspiring tech professionals can leverage this section to discover internships that align with their goals and embark on a journey of growth and professional development. The listings encompass a wide spectrum of tech domains, ensuring that individuals from various fields can explore and apply for relevant opportunities. It's important for applicants to cross-reference and apply via official company channels for the most accurate and current information on internships.
+
+<br><br><br>
+
 | Company | Location | Role | Duration | Eligibility Criteria (Education) | Stipend | Date Posted <br> dd/mm/yyyy | Application Deadline <br> dd/mm/yyyy |
 |---------|----------|------|----------|----------------------------------|---------|-----------------------------|--------------------------------------|
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/job/1577325/Software-Engineering---Internship-Opportunities) | Hyderabad, TG <br> Bangalore, KA <br>Noida, UP <br> **Up to 50% WFH**  | [Software Engineering - Internship Opportunities](https://jobs.careers.microsoft.com/global/en/job/1577325/Software-Engineering---Internship-Opportunities) | - | Bachelors/Masters in Engineering/CS/related field <br> **Must have at least 1 sem/quarter remaining at the end of the internship** | - | 03/08/2023 | - |
@@ -193,6 +215,10 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 
 ## Off-Campus Drives
 
+The "Off-Campus Drives" section in the New Grad Tech Roles - India repository features information about upcoming off-campus recruitment drives. This section provides details about eligibility criteria, locations, posting dates, exam dates, and application deadlines. Off-campus drives are opportunities for new graduates to showcase their skills and connect with tech companies outside of traditional on-campus recruitment. By participating in off-campus drives, candidates can access a broader range of job opportunities and potentially secure roles that align with their career aspirations. It's important to verify information from official sources and adhere to application deadlines for accurate and up-to-date details on off-campus drives.
+
+<br><br><br>
+
 | Off-Campus Drive | Eligibility Criteria | Location     | Date Posted <br> dd/mm/yyyy | Exam Date <br> dd/mm/yyyy | Application Deadline <br> dd/mm/yyyy |
 -------------------|----------------------|--------------|-----------------------------|---------------------------|--------------------------------------|
 | [TCS - National Qualifier Test](https://learning.tcsionhub.in/hub/national-qualifier-test/) |  Students with UG, PG, and Diploma are in the 2025 PO, 2024 PO, or 2023 PO batch <br> or Freshers with less than 2 years of experience are eligible. <br> **Note - 60 % Throughout (X, XII, Diploma, UG, PG)  required** <br>   |  Online (TCS iON Portal) | 05/08/2023 | 16/09/2023 <br> (For September Exam) | 16/09/2023 <br> (For September Exam) |
@@ -202,6 +228,15 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 ---
 
 ## Diversity Programs
+
+The "Diversity Programs" section within the New Grad Tech Roles - India repository is a dedicated resource showcasing initiatives by tech companies to promote inclusivity and diversity in their hiring practices. This section highlights programs that focus on supporting underrepresented groups, including but not limited to gender, race, sexuality, caste, and discrimination. These programs offer opportunities for individuals from diverse backgrounds to excel in the tech industry, fostering a more inclusive and equitable work environment. Candidates can explore a variety of programs designed to provide mentorship, internships, and resources to help them succeed in their tech careers. Aspiring tech professionals can utilize this section to discover programs that align with their identities and aspirations, contributing to a more diverse tech landscape.
+
+#### Note
+The emphasis companies place on candidates' capabilities remains paramount, yet it's crucial to recognize the pivotal role that diversity programs play in STEM. Even companies like Amazon institute these programs to uplift marginalized communities such as women and people of color. However, the rigorous assessment processes are consistent across all candidates. Any perceived benefit tied to a specific background is dwarfed by the advantages of referrals, rendering it a minor, virtually inconsequential factor aimed at optics. Proficiency remains the key determinant in securing employment, irrespective of one's identity. Worries about bias during interviews are effectively countered through skill-based evaluations.
+
+It's imperative to understand that the intention behind diversity programs is not to compromise on hiring quality; rather, it's to harness a broader range of talents and perspectives. Labeling these initiatives as unfair is not only misguided but also reflects a bigoted and ignorant viewpoint. These programs are designed to rectify systemic imbalances and create a more inclusive, innovative, and equitable STEM community, effectively debunking any baseless or prejudiced claims.
+
+<br><br><br>
 
 | Company | Program Name | Program Type | Diversity Focus | Eligibility Criteria (Education) | Date Posted | Program Duration | Application Dealine |
 |---------|--------------|--------------|-----------------|--------------------------------- |-------------|------------------|---------------------|
@@ -214,7 +249,27 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 
 ## Talent Network Opportunities
 
-This section provides direct links to talent network forms and registration pages offered by various companies in the tech industry. Join these talent networks to stay updated on future job openings, company news, and networking opportunities. Explore the options below to connect with leading companies in the field.
+The **Talent Network Opportunities** section within the **New Grad Tech Roles - India** repository is designed to connect aspiring tech professionals with leading companies in the industry. This section offers a curated list of direct links to talent network forms and registration pages provided by various tech companies. These talent networks serve as valuable platforms that allow individuals to stay engaged with companies, receive updates on future job openings, access company news, and participate in networking opportunities.
+
+**Key Benefits:**
+- **Stay Informed:** By joining a company's talent network, individuals can stay informed about the latest developments within the company, including job openings, events, product launches, and more.
+- **Early Access:** Many tech companies share exclusive job opportunities with their talent network members before posting them publicly. This gives network members a competitive advantage in applying for roles.
+- **Networking:** Talent networks provide a platform to engage with company representatives, employees, and fellow tech enthusiasts. This networking can lead to valuable connections and insights.
+- **Personalized Updates:** By providing your preferences and areas of interest, you can receive personalized updates tailored to your career goals and interests.
+
+**How to Use:**
+- **Explore the Options:** Browse through the list of companies in the Talent Network Opportunities section. Each company's name is linked to its respective talent network registration page.
+- **Register:** Click on the provided link to access the talent network form or registration page. Follow the instructions to sign up for the talent network.
+- **Stay Engaged:** Once registered, you'll receive updates, notifications, and invitations to events from the company. Engage actively to make the most of the opportunities.
+
+**Why Join:**
+
+By joining talent networks, you are establishing a direct connection with tech companies, demonstrating your interest in their organization, and positioning yourself to be among the first to learn about new job opportunities. It's an effective way to enhance your job search strategy, expand your network, and gain insights into the tech industry's trends and developments.
+
+Remember that each talent network is unique, offering different benefits and engagement opportunities. As you explore these networks, consider joining those that align with your career goals, interests, and values.
+
+The Talent Network Opportunities section provides a convenient way to explore and access these talent networks, helping you take proactive steps toward your tech career aspirations.
+<br><br><br>
 
 | Company Name | Talent Network Name                                      | Additional Notes                       | Date Posted |
 |--------------|----------------------------------------------------------|----------------------------------------|---------------|
@@ -227,6 +282,23 @@ This section provides direct links to talent network forms and registration page
 ---
 
 ## Hackathons
+
+The **Hackathons** section within the **New Grad Tech Roles - India** repository is dedicated to showcasing upcoming hackathon events, providing aspiring tech enthusiasts and professionals with opportunities to participate in these creative and collaborative challenges. Hackathons are intensive events where individuals or teams work together to develop innovative solutions to specific problems within a limited timeframe.
+
+Delve into the captivating realm of Hackathons, meticulously curated within the repository. This section serves as an enchanting gateway, offering an exclusive glimpse into the dynamic world of upcoming hackathon events. These events, characterized by their intensity and collaborative fervor, beckon tech enthusiasts and visionaries alike to converge and embark on a collective journey of innovation. United by a shared passion for technology, participants are invited to harness their creativity and technical prowess within the crucible of limited timeframes.
+
+Hackathons, the veritable crucibles of ingenuity, provide the optimal platform for ingenious minds to shine. With an ardent focus on problem-solving, these events compel individuals and teams to harmoniously blend creativity and skill, resulting in groundbreaking solutions that confront real-world challenges head-on. As the clock ticks, ideas crystallize into tangible prototypes, and coding keystrokes transform into remarkable tools that have the potential to reshape the technological landscape.
+
+Beyond the competitive spirit lies the heart of collaboration, as diverse talents intertwine to give life to revolutionary concepts. These electrifying environments foster an atmosphere where innovation knows no bounds and limitations are mere stepping stones toward progress. With a harmonious fusion of innovation and camaraderie, hackathons unveil a realm where sheer dedication and intellectual agility converge to birth inventions that transcend the confines of convention.
+
+So, whether you're a coding virtuoso, a design maestro, or an out-of-the-box thinker, the Hackathons section within the repository extends an open invitation to be a part of this transformative journey. Embrace the challenge, seize the opportunity, and immerse yourself in an exhilarating experience that promises not only the thrill of competition but also the satisfaction of leaving an indelible mark on the world of technology. Join the ranks of those who dare to dream, dare to innovate, and dare to redefine the future through the pulsating energy of hackathons.
+
+**Why Participate:**
+
+Participating in hackathons is an exciting way to challenge yourself, push your boundaries, and collaborate on projects that can have real-world applications. These events offer a taste of the fast-paced and innovative environment of the tech industry, helping you hone your skills while showcasing your creativity and problem-solving abilities. Remember that hackathons vary in themes, formats, and objectives. Some may focus on coding challenges, while others could include design, entrepreneurship, or specific technologies. Choose hackathons aligned with your interests and goals for a fulfilling experience. The Hackathons section in the repository is a valuable resource to explore and discover these events, empowering you to engage in hands-on learning, contribute to innovative projects, and connect with the broader tech community.
+
+<br><br><br>
+
 | Hackathon Name                                      | Organizer | Description                            | Date Posted | Registration Deadline | Start Date | End Date |
 |-----------------------------------------------------|-----------|----------------------------------------|---------------|-----------------------|----------|----------|
 |No Leads Available For Now.|
