@@ -118,7 +118,7 @@ In the ever-evolving world of technology, the importance of mental well-being ca
 
 | Resource Name | Description                                           | Website                                          | Phone Number              | Email | Access Cost                       |
 |---------------|-------------------------------------------------------|--------------------------------------------------|---------------------------|-------|-----------------------------------|
-| Vandrevala Foundation | Offers helpline and support for various mental health concerns. | [vandrevalafoundation.com](http://www.vandrevalafoundation.com/) | +919999666555 | https://www.thelivelovelaughfoundation.org/ | Helplines is free but they also offer paid counseling. |
+| Vandrevala Foundation | Offers helpline and support for various mental health concerns. | [vandrevalafoundation.com](http://www.vandrevalafoundation.com/) | +919999666555 | help@vandrevalafoundation.com | Helplines is free but they also offer paid counseling. |
 | iCall | Provides emotional support, information, and referral services. | [icallhelpline.org](http://icallhelpline.org/) | 9152987821 <br><br> (Mon-Sat, 10am-8pm) | icall@tiss.edu | Free                       |
 | Sumaitri | Provides a helpline for emotional support and suicide prevention. | [sumaitri.net](https://www.sumaitri.net/) | 011-46018404 <br>+91-9315767849 <br><br> (12:30 PM to 5:00 PM) |  feelingsuicidal@sumaitri.net | Free                       |
 | Manastha | Online platform providing therapy and counseling services. | [manastha.com](https://www.manastha.com/) | - |  | Paid (Cost depends on service and service provider) | 
