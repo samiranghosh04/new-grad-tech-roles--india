@@ -9,7 +9,7 @@ Welcome to New Grad Tech Roles - India: Your one-stop repository for SWE, PM, Qu
 🌎 Please note that this repository primarily lists job openings in India and Remote 🌎
 
 ## Table of Contents
-1. [Helpful Resources 🎯](README.md#resources)
+1. [Helpful Resources 🎯](README.md#inteview-prep-resources)
 2. [Mental Health Resources](README.md#mental-health-resources)
 3. [Full-Time Jobs](README.md#jobs)
 4. [Internships](README.md#jobs)
