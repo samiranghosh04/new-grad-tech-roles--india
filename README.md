@@ -20,7 +20,7 @@ Welcome to New Grad Tech Roles - India: Your one-stop repository for SWE, PM, Qu
 9. [Contributing Guide](CONTRIBUTING.md)
    
 
-## Resources
+## Interview Prep Resources
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
 [InterviewGuide.dev](https://interviewguide.dev/):
