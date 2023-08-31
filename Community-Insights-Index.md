@@ -30,5 +30,5 @@ As of now there is nothing but hopefully that will change soon. If you are someo
 
 ## Table of Contents
 
-- []()
+- [Samiran's Comprehensive Community Insights - Samiran Ghosh](Insights/samiranghosh04ComprehensiveInsights01092023.md)
 - []()
