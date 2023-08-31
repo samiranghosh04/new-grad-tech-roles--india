@@ -9,15 +9,20 @@ Welcome to New Grad Tech Roles - India: Your one-stop repository for SWE, PM, Qu
 🌎 Please note that this repository primarily lists job openings in India and Remote 🌎
 
 ## Table of Contents
-1. [Helpful Resources 🎯](README.md#inteview-prep-resources)
-2. [Mental Health Resources](README.md#mental-health-resources)
-3. [Full-Time Jobs](README.md#jobs)
-4. [Internships](README.md#jobs)
-5. [Off Campus Drives](README.md#off-campus-drives)
-6. [Diversity Programs](README.md#diversity-programs)
-7. [Talent Network Opportunities](README.md#talent-network-opportunities)
-8. [Hackathons](README.md#hackathons)
-9. [Contributing Guide](CONTRIBUTING.md)
+1. [interview Prep Resources ](README.md#inteview-prep-resources)
+2. [Additional Resources](README.md#additional-resources)   
+      - [Aptitude Resources](README.md#aptitude-resources)
+      - [GitHub Student Developer Pack](important-free-resource-that-practically-everyone-misses-out-on. )
+      - [US Employment Resources](README.md#us-employment-resources)
+3. [Mental Health Resources](README.md#mental-health-resources)
+4. [Full-Time Jobs](README.md#jobs)
+5. [Internships](README.md#jobs)
+6. [Off Campus Drives](README.md#off-campus-drives)
+7. [Diversity Programs](README.md#diversity-programs)
+8. [Talent Network Opportunities](README.md#talent-network-opportunities)
+9. [Hackathons](README.md#hackathons)
+10. [Community Insights](Community-Insights-Index.md)
+11. [Contributing Guide](CONTRIBUTING.md)
    
 
 ## Interview Prep Resources
@@ -28,6 +33,9 @@ A comprehensive website that covers various topics such as data structures, algo
 
 [Neetcode.io](https://neetcode.io/):
 A website that offers courses, lessons, and practice problems for coding interviews. Highly recommended when doing the grind! An updated version of Blind 75 is updated there with 433 problems in total created by an ex-Google engineer.
+
+[Strivers 79 Last Moment DSA Sheet](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews/)
+The Striver’s 79 Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of MAANG companies/ MAANG-like companies etc, and cover almost all of the concepts related to Data Structure & Algorithms. This is ideal for people who are well versed with DSA and are in a time crunch
 
 [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 Striver's SDE Sheet is a popular study plan that helps aspiring software developers prepare for technical interviews. It includes a curated list of data structures, algorithms, and coding questions with detailed explanations and solutions. This comprehensive resource aims to enhance coding skills and improve success rates in technical interviews, particularly at top tech companies.
@@ -71,10 +79,12 @@ This is a place where you can take mock interviews and practice coding questions
 [Exponent](https://www.tryexponent.com/practice)
 A site similar to Pramp but this is also relevant for System Design and PM interviews.
 
-[Additional Resources](https://github.com/samiranghosh04/resourcesforstemdaa)
+[resourcesforstemdaa](https://github.com/samiranghosh04/resourcesforstemdaa)
 This is a repo consisting of books, articles, and repositories.
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
+
+## Additional Resources
 
 #### Aptitude Resources
 [Faceprep](https://www.faceprep.in/)
