@@ -79,8 +79,6 @@ This is a place where you can take mock interviews and practice coding questions
 [Exponent](https://www.tryexponent.com/practice)
 A site similar to Pramp but this is also relevant for System Design and PM interviews.
 
-[resourcesforstemdaa](https://github.com/samiranghosh04/resourcesforstemdaa)
-This is a repo consisting of books, articles, and repositories.
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
